@@ -14,6 +14,7 @@ The app’s primary objective is to monitor elder peoples health condition from 
       2. Maintain a database of Topics.
       3. Visualise the data in the form of spline.
       
+Rate it on [Ionic Market Place.](http://market.ionic.io/starters/ionic-mqtt-eclipse-paho)
       
 Read the following article : [Ionic MQTT Client build using Paho – Part 4](http://www.arjunsk.com/iot/ionic-mqtt-client-build-using-paho-part-4/) 
 
